@@ -18,6 +18,11 @@ git remote add origin git@github.com:web-projects/reactjs-clientpanel.git
                  - AppNavbar component.
                  - Dashboard, Sidebar and Clients components.
                  - React-Redux-Firebase setup.
+    $ 2018/08/26 - Connect Clients Component to Firestore.
+                 - Add Client To Firestore.
+                 - Client Details Component.
+                 - Balance Update and Delete.
+                 - Edit Client in Firestore
 
 ## HEROKU HOSTING
 
