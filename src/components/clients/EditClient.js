@@ -42,7 +42,7 @@ class EditClient extends Component {
 
   render() {
     const { client } = this.props;
-    const { disableBalanceOnEdit } = false;
+    const { disableBalanceOnEdit } = this.props.settings;
 
     if (client) {
       return (

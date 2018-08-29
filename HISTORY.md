@@ -23,6 +23,14 @@ git remote add origin git@github.com:web-projects/reactjs-clientpanel.git
                  - Client Details Component.
                  - Balance Update and Delete.
                  - Edit Client in Firestore
+    $ 2018/08/27 - Firestore Authentication.
+                 - Notification State and Alert Component.
+                 - Settings Reducer and Actions.
+                 - Settings Component.
+                 - Persist Settings to LocalStorage.
+                 - Implementing Settings.
+                 - Register Functionality.
+                 - Deploy to Firebase
 
 ## HEROKU HOSTING
 
